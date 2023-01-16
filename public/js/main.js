@@ -3,6 +3,8 @@ let titre = document.querySelector("h2.ml-5").textContent;
 console.log(titre);
 //let titre = document.querySelector("h2.ml-5").innerHTML;
 //console.log(titre);
+// let h2 = document.querySelector(`h2:nth-child(3)`)
+//console.log(h2.innerText);
 
 // ---EXERCICE 2
 let titre2 = document.querySelector('h2.ml-5');
